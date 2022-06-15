@@ -1,4 +1,4 @@
-<h2> Hi, I'm Anuwat! <img src="http://25.media.tumblr.com/tumblr_mam03eoOQK1rnwo2vo1_400.gif" width="50"></h2>
+<h2> Hi, I'm BagasStrynto! <img src="http://25.media.tumblr.com/tumblr_mam03eoOQK1rnwo2vo1_400.gif" width="50"></h2>
 
 <img align='right' src="https://media2.giphy.com/media/3oKIPEnIVoeC3iq1Y4/giphy.gif" width="230">
 
